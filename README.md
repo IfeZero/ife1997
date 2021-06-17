@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ife
-- 👀 I’m interested in Test automation in embedded and control systems
-- 🌱 I’m currently learning pytest and unittest on python
+- 👀 I’m interested in Hardware and Software automation in embedded and control systems
+- 🌱 I’m currently learning Opencv, Tensorflow on python
 - 💞️ I’m looking to collaborate on a debugging and code testing project
 - 📫 How to reach me ifeoluwa.ehinmowo@gmail.com
 
