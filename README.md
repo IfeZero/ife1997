@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Ife
+- 👋 Hi, I’m Ife Ehinmowo
+- I currently work as a client product IP systems engineer at AMD.
 - 👀 I’m interested in Hardware and Software automation in embedded and control systems
 - 🌱 I’m currently learning Opencv, Tensorflow on python
 - 💞️ I’m looking to collaborate on a debugging and code testing project
